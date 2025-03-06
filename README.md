@@ -20,7 +20,7 @@ Installation:
 
 To run the game on your system:
 # Clone the repository
-git clone https://github.com/ayushks27/stackgame.git
+git clone https://github.com/ayushks27/advance_projects.git
 cd stackgame
 
 # Compile the C++ program
